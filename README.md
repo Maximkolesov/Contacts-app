@@ -38,3 +38,4 @@ Contacts-app — Android-приложение для просмотра конт
 
 ```bat
 gradlew.bat assembleDebug
+```
